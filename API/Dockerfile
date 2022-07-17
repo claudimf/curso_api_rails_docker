@@ -1,4 +1,4 @@
-FROM ruby
+FROM ruby:2.7.1
 RUN apt-get update -qq && apt-get install -y nodejs postgresql-client
 RUN apt install libpq-dev
 RUN apt install build-essential
@@ -9,7 +9,6 @@ COPY Gemfile.lock /app/Gemfile.lock
 COPY . /app
 RUN bundle install
 RUN bundle update
-RUN gem update --system
 
 # Add a script to be executed every time the container starts.
 COPY entrypoint.sh /usr/bin/
