@@ -3,6 +3,7 @@
 👋 Olá, Seja Bem-vindo(a) ao curso de Rails API 7.
 
 Neste Workshop iremos aprender:  
+
 1° Como criar uma API utilizando Rails 7 + Docker Compose.  
 
 # Aulas
@@ -19,3 +20,6 @@ Neste Workshop iremos aprender:
 [3° API Ruby On Rails 5: Aprenda a criar facilmente - onebitcode](https://onebitcode.com/api-completa-rails/)  
 [4° Quickstart: Compose and Rails](https://docs.docker.com/samples/rails/)  
 [5° Dockerizing a Ruby on Rails Application](https://semaphoreci.com/community/tutorials/dockerizing-a-ruby-on-rails-application)  
+[6° Ruby on Rails - Using Initializers](https://guides.rubyonrails.org/v2.3/configuring.html#using-initializers)  
+[7° Rack CORS Middleware](https://github.com/cyu/rack-cors)  
+[8° Rack middleware for blocking & throttling abusive requests](https://github.com/rack/rack-attack)  
