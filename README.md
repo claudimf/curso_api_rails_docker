@@ -15,6 +15,9 @@ Neste Workshop iremos aprender:
 <details>
     <summary>Aulas</summary>
     <ul>
+        <li><a href="https://github.com/claudimf/curso_api_rails_7/blob/main/Aulas/00_Conceitos.md">00 Conceitos</a></li>
+    </ul>
+    <ul>
         <li><a href="https://github.com/claudimf/curso_api_rails_7/blob/main/Aulas/01_instala%C3%A7%C3%A3o.md">01 Instalação</a></li>
     </ul>
     <ul>
