@@ -26,6 +26,9 @@ Neste Workshop iremos aprender:
     <ul>
         <li><a href="https://github.com/claudimf/curso_api_rails_docker/blob/main/Aulas/03_Configurar_Devise.md">02 Configurar Devise</a></li>
     </ul>
+    <ul>
+        <li><a href="https://github.com/claudimf/curso_api_rails_docker/blob/main/Aulas/04_Gerando_Controllers.md">02 Configurar Devise</a></li>
+    </ul>
 </details>
 
 # Referências utilizadas
