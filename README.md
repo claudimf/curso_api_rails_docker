@@ -35,6 +35,9 @@ Neste Workshop iremos aprender:
     <ul>
         <li><a href="https://github.com/claudimf/curso_api_rails_docker/blob/main/Aulas/06_Configurando_Seeds.md">06 Configurar Seeds</a></li>
     </ul>
+    <ul>
+        <li><a href="https://github.com/claudimf/curso_api_rails_docker/blob/main/Aulas/07_Configurando_Postman.md">07 Configurar Postman</a></li>
+    </ul>
 </details>
 
 # Referências utilizadas
@@ -49,3 +52,4 @@ Neste Workshop iremos aprender:
 [9° Ruby on Rails Migrations – Quick Reference](https://www.ralfebert.com/snippets/ruby-rails/models-tables-migrations-cheat-sheet/)  
 [10° swagger-all-in-one-docker-container](https://github.com/elevennines-inc/swagger-all-in-one-docker-compose)  
 [11° Ruby on Rails - 6 MVC and You](https://github.com/ctran/annotate_models)  
+[12° Customizing Your Workflow](https://guides.rubyonrails.org/generators.html#customizing-your-workflow)  

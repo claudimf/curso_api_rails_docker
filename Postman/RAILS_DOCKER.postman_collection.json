@@ -1,0 +1,41 @@
+{
+	"info": {
+		"_postman_id": "1f7a71ce-7baf-4744-beb0-a8c94f63bacf",
+		"name": "RAILS_DOCKER",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "13750303"
+	},
+	"item": [
+		{
+			"name": "Listar_Contatos",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:3000/api/v1/contacts.json?X-User-Email=zoila.bode@king-heathcote.co&X-User-Token=bMbzMD536hW9MJ_cvBqy",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"api",
+						"v1",
+						"contacts.json"
+					],
+					"query": [
+						{
+							"key": "X-User-Email",
+							"value": "zoila.bode@king-heathcote.co"
+						},
+						{
+							"key": "X-User-Token",
+							"value": "bMbzMD536hW9MJ_cvBqy"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
