@@ -24,13 +24,16 @@ Neste Workshop iremos aprender:
         <li><a href="https://github.com/claudimf/curso_api_rails_docker/blob/main/Aulas/02_Configurar_Rack.md">02 Configurar Rack</a></li>
     </ul>
     <ul>
-        <li><a href="https://github.com/claudimf/curso_api_rails_docker/blob/main/Aulas/03_Configurar_Devise.md">02 Configurar Devise</a></li>
+        <li><a href="https://github.com/claudimf/curso_api_rails_docker/blob/main/Aulas/03_Configurar_Devise.md">03 Configurar Devise</a></li>
     </ul>
     <ul>
-        <li><a href="https://github.com/claudimf/curso_api_rails_docker/blob/main/Aulas/04_Gerando_Controllers.md">02 Configurar Devise</a></li>
+        <li><a href="https://github.com/claudimf/curso_api_rails_docker/blob/main/Aulas/04_Gerando_Controllers.md">04 Configurar Devise</a></li>
     </ul>
     <ul>
-        <li><a href="https://github.com/claudimf/curso_api_rails_docker/blob/main/Aulas/05_Configurando_Annotate.md">02 Configurar Annotate</a></li>
+        <li><a href="https://github.com/claudimf/curso_api_rails_docker/blob/main/Aulas/05_Configurando_Annotate.md">05 Configurar Annotate</a></li>
+    </ul>
+    <ul>
+        <li><a href="https://github.com/claudimf/curso_api_rails_docker/blob/main/Aulas/06_Configurando_Seeds.md">06 Configurar Seeds</a></li>
     </ul>
 </details>
 
