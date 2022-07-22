@@ -29,6 +29,9 @@ Neste Workshop iremos aprender:
     <ul>
         <li><a href="https://github.com/claudimf/curso_api_rails_docker/blob/main/Aulas/04_Gerando_Controllers.md">02 Configurar Devise</a></li>
     </ul>
+    <ul>
+        <li><a href="https://github.com/claudimf/curso_api_rails_docker/blob/main/Aulas/05_Configurando_Annotate.md">02 Configurar Annotate</a></li>
+    </ul>
 </details>
 
 # Referências utilizadas
@@ -42,3 +45,4 @@ Neste Workshop iremos aprender:
 [8° Rack middleware for blocking & throttling abusive requests](https://github.com/rack/rack-attack)  
 [9° Ruby on Rails Migrations – Quick Reference](https://www.ralfebert.com/snippets/ruby-rails/models-tables-migrations-cheat-sheet/)  
 [10° swagger-all-in-one-docker-container](https://github.com/elevennines-inc/swagger-all-in-one-docker-compose)  
+[11° Ruby on Rails - 6 MVC and You](https://github.com/ctran/annotate_models)  
