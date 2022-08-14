@@ -50,6 +50,9 @@ Neste Workshop iremos aprender:
     <ul>
         <li><a href="https://github.com/claudimf/curso_api_rails_docker/blob/main/Aulas/11_Validar_Models.md">11 Validar Models</a></li>
     </ul>
+    <ul>
+        <li><a href="https://github.com/claudimf/curso_api_rails_docker/blob/main/Aulas/12_Adicionar_Simplecov.md">12 Gerar relatório de cobertura de testes</a></li>
+    </ul>
 </details>
 
 # Referências utilizadas
