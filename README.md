@@ -47,6 +47,9 @@ Neste Workshop iremos aprender:
     <ul>
         <li><a href="https://github.com/claudimf/curso_api_rails_docker/blob/main/Aulas/10_Validar_Factories.md">10 Validar Factories</a></li>
     </ul>
+    <ul>
+        <li><a href="https://github.com/claudimf/curso_api_rails_docker/blob/main/Aulas/11_Validar_Models.md">11 Validar Models</a></li>
+    </ul>
 </details>
 
 # Referências utilizadas
