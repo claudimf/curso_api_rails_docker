@@ -35,7 +35,9 @@ class Api::V1::ContactsController < Api::V1::ApiController
 
   # DELETE /api/v1/contacts/1
   def destroy
-    @contact.destroy
+    if @contact.destroy
+      render json: {message: 'Contact destroyed'}, status: :ok
+    end
   end
 
   private

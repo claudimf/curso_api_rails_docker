@@ -75,6 +75,16 @@ rails db:seed
 
 🚀 :clap: Para visualizar o sistema basta acessar no navegador no endereço: [http://localhost:3000](http://localhost:3000)  
 
+
+Subir o projeto:
+```sh
+docker-compose run --rm --service-ports web
+```
+Remover imagens não utilizadas:
+```sh
+docker rmi -f $(docker images -f "dangling=true" -q)
+```
+
 # Como executar a Suíte de Teste
 
 ### Testes Unitários com Rspec, em um novo terminal execute:

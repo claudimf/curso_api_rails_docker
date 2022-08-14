@@ -53,6 +53,9 @@ Neste Workshop iremos aprender:
     <ul>
         <li><a href="https://github.com/claudimf/curso_api_rails_docker/blob/main/Aulas/12_Adicionar_Simplecov.md">12 Gerar relatório de cobertura de testes</a></li>
     </ul>
+    <ul>
+        <li><a href="https://github.com/claudimf/curso_api_rails_docker/blob/main/Aulas/13_Validar_Requisicoes.md">13 Validar Requisições</a></li>
+    </ul>
 </details>
 
 # Referências utilizadas
