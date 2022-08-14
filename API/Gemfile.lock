@@ -173,6 +173,8 @@ GEM
       rspec-mocks (~> 3.10)
       rspec-support (~> 3.10)
     rspec-support (3.11.0)
+    shoulda-matchers (5.1.0)
+      activesupport (>= 5.2.0)
     simple_token_authentication (1.17.0)
       actionmailer (>= 3.2.6, < 7)
       actionpack (>= 3.2.6, < 7)
@@ -213,6 +215,7 @@ DEPENDENCIES
   rack-cors
   rails (= 6.0.3.3)
   rspec-rails (>= 5.1.2)
+  shoulda-matchers
   simple_token_authentication (~> 1.0)
   tzinfo-data
 

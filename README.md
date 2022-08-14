@@ -41,6 +41,9 @@ Neste Workshop iremos aprender:
     <ul>
         <li><a href="https://github.com/claudimf/curso_api_rails_docker/blob/main/Aulas/08_Configurando_database_cleaner.md">08 Configurar Database cleaner</a></li>
     </ul>
+    <ul>
+        <li><a href="https://github.com/claudimf/curso_api_rails_docker/blob/main/Aulas/09_Configurando_Shoulda_Matchers.md">09 Configurar Shoulda Matchers</a></li>
+    </ul>
 </details>
 
 # Referências utilizadas
