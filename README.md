@@ -56,6 +56,9 @@ Neste Workshop iremos aprender:
     <ul>
         <li><a href="https://github.com/claudimf/curso_api_rails_docker/blob/main/Aulas/13_Validar_Requisicoes.md">13 Validar Requisições</a></li>
     </ul>
+    <ul>
+        <li><a href="https://github.com/claudimf/curso_api_rails_docker/blob/main/Aulas/14_Imprimir_Descricao_dos_Testes.md">14 Apresentar a descrição dos testes</a></li>
+    </ul>
 </details>
 
 # Referências utilizadas

@@ -137,7 +137,7 @@ RSpec.describe 'Contacts API' do
     end
   end
 
-  describe "POST /api/v1/contacts" do
+  describe "PUT /api/v1/contacts/:id" do
     let!(:user){ create(:user) }
     let!(:contact){ create(:contact, user: user) }
 
