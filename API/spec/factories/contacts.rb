@@ -5,6 +5,7 @@
 # Table name: contacts
 #
 #  id          :bigint           not null, primary key
+#  birthday    :date
 #  description :text
 #  email       :string
 #  name        :string
@@ -28,5 +29,6 @@ FactoryBot.define do
     phone { Faker::PhoneNumber.phone_number }
     description { Faker::Lorem.sentence }
     association :user, factory: :user
+    birthday {Faker::Date.birthday(min_age: 18, max_age: 65)}
   end
 end

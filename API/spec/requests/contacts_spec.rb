@@ -170,14 +170,14 @@ RSpec.describe 'Contacts API' do
 
         it " updates attributes" do
           expect(
-            contact.slice(:name, :email, :phone, :description).values
+            contact.slice(contact_params.keys).values
           ).to_not eq(contact_params.values)
 
           put_call
           contact.reload
 
           expect(
-            contact.slice(:name, :email, :phone, :description).values
+            contact.slice(contact_params.keys).values
           ).to eq(contact_params.values)
         end
       end

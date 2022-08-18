@@ -3,6 +3,7 @@
 # Table name: contacts
 #
 #  id          :bigint           not null, primary key
+#  birthday    :date
 #  description :text
 #  email       :string
 #  name        :string
@@ -22,4 +23,12 @@
 class Contact < ApplicationRecord
   belongs_to :user
   validates :name, :user, presence: true
+
+
+  def resume_info
+    {
+      name: name,
+      age: Time.now.to_date.year - birthday.year
+    }
+  end
 end

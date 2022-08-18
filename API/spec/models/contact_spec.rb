@@ -3,6 +3,7 @@
 # Table name: contacts
 #
 #  id          :bigint           not null, primary key
+#  birthday    :date
 #  description :text
 #  email       :string
 #  name        :string

@@ -59,6 +59,9 @@ Neste Workshop iremos aprender:
     <ul>
         <li><a href="https://github.com/claudimf/curso_api_rails_docker/blob/main/Aulas/14_Imprimir_Descricao_dos_Testes.md">14 Apresentar a descrição dos testes</a></li>
     </ul>
+    <ul>
+        <li><a href="https://github.com/claudimf/curso_api_rails_docker/blob/main/Aulas/15_Criar_Servico.md">15 Criar um serviço</a></li>
+    </ul>
 </details>
 
 # Referências utilizadas
