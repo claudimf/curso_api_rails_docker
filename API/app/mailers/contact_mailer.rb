@@ -14,5 +14,6 @@ class ContactMailer < ApplicationMailer
     subject = "Birthday Report - #{@parsed_date}"
 
     mail(to: user_email, subject: subject)
+    puts 'Email enviado'
   end
 end

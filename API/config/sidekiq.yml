@@ -1,0 +1,16 @@
+default: &default
+  host: <%= ENV.fetch("REDIS_HOST") { 'redis' } %>
+  password: <%= ENV.fetch("REDIS_PASSWORD") { '' }%>
+  port: 6379
+  db_num: 0
+  timeout: 10
+
+development:
+  <<: *default
+
+test:
+  <<: *default
+
+:queues:
+  - default
+  - mailer

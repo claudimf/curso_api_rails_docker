@@ -65,6 +65,9 @@ Neste Workshop iremos aprender:
     <ul>
         <li><a href="https://github.com/claudimf/curso_api_rails_docker/blob/main/Aulas/16_Configurar_Email.md">16 Configurar Email</a></li>
     </ul>
+    <ul>
+        <li><a href="https://github.com/claudimf/curso_api_rails_docker/blob/main/Aulas/17_Criar_Background_jobs.md">17 Criar Background Jobs</a></li>
+    </ul>
 </details>
 
 # Referências utilizadas
