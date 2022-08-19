@@ -48,6 +48,7 @@ group :development, :test do
   gem 'faker'
   gem 'factory_bot_rails'
   gem 'byebug', platforms: %i[mri mingw x64_mingw]
+  gem 'letter_opener_web', '~> 1.4', '>= 1.4.1' # capture email sent by the backend
 end
 
 group :development do

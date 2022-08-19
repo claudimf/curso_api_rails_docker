@@ -8,6 +8,17 @@ class BirthdayReportService
   end
 
   def perform
+
+    ContactMailer.with(
+      user_email: @user.email, 
+      report: generate_report,
+      reference_date: @reference_date
+    ).birthday_report.deliver_now
+
+    return
+  end
+
+  def generate_report
     result = []
     reference_date = @reference_date.strftime("%d/%m")
 

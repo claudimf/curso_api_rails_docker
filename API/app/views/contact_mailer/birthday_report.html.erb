@@ -1,0 +1,19 @@
+<h1>Aniversariantes de <%= "#{@parsed_date}" %></h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>Nome</th>
+      <th>Idade</th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <% @report.each do |aniversariante| %>
+      <tr>
+        <td><%= aniversariante[:name] %></td>
+        <td><%= aniversariante[:age] %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>

@@ -62,6 +62,9 @@ Neste Workshop iremos aprender:
     <ul>
         <li><a href="https://github.com/claudimf/curso_api_rails_docker/blob/main/Aulas/15_Criar_Servico.md">15 Criar um serviço</a></li>
     </ul>
+    <ul>
+        <li><a href="https://github.com/claudimf/curso_api_rails_docker/blob/main/Aulas/16_Configurar_Email.md">16 Configurar Email</a></li>
+    </ul>
 </details>
 
 # Referências utilizadas
